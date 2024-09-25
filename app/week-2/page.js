@@ -14,7 +14,7 @@ export default function Page() {
             <h1>Student Information</h1>    
             <StudentInfo />
             <Link href="http://localhost:3000/">
-              Back
+            <p className="font-bold hover:text-blue-500 text-[20px]">Back</p>
             </Link>
         </div>
       </main>
